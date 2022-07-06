@@ -21,3 +21,13 @@ print(f"{x} {bicycles}")
 
 bicycles.remove('redline')
 print(bicycles)
+
+listB = []
+listB.append('123')
+listB.append('123')
+listB.append('123')
+
+print(listB)
+
+listB.remove('123')
+print(listB)
