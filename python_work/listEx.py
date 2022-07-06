@@ -13,3 +13,8 @@ print(bicycles)
 
 del bicycles[0]
 print(bicycles)
+
+
+print(bicycles)
+x = bicycles.pop()
+print(f"{x} {bicycles}")
