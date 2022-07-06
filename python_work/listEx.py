@@ -18,3 +18,6 @@ print(bicycles)
 print(bicycles)
 x = bicycles.pop()
 print(f"{x} {bicycles}")
+
+bicycles.remove('redline')
+print(bicycles)
